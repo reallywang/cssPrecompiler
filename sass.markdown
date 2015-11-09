@@ -163,10 +163,8 @@
     }   
 6. 使用运算
 `+, -, *, /, and %`
-    
-    
-    .container { width: 100%; }
-    
+
+.container{ width: 100%;}    
     
     article[role="main"] {
       float: left;
